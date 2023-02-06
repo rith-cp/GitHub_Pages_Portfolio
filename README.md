@@ -1,1 +1,3 @@
 # GitHub_Pages_Portfolio
+
+Welcome to my first portfolio page! I have been learning and doing some small projects and portfolio with HTML, CSS, and JavaScript in the past, but this is my very first portfolio project that I have uploaded here on GitHub. I have spent a lot of time trying to make this as good as I could, but there has never been enough time to make it perfect as I wanted it to be since I also have some responsiblity to my full-time job and part-time freelancing. But I am determined to make this portfolio perfect and better. I am really excited to be part of the MIT xPRo and participate in this project. Thanks for being here and feel free to reach out as I am open and any comments are appreciated.
